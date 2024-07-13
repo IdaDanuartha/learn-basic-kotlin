@@ -1,4 +1,4 @@
-package com.example.rockpapperscissorsapp
+package com.example.learnkotlinbydenispanjuta
 
 fun main() {
     var computerChoice = ""

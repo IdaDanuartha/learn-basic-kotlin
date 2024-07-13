@@ -1,4 +1,4 @@
-package com.example.rockpapperscissorsapp
+package com.example.learnkotlinbydenispanjuta
 
 import org.junit.Test
 
